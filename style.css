@@ -45,3 +45,8 @@ input[type="password"]{
     color: green;
     width: 5rem;
 }
+
+.cadastro-form div:nth-of-type(2){
+    background: blue;
+
+}
